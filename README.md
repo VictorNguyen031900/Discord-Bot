@@ -4,10 +4,10 @@ Discord Bot that is used as a Typing Bot.  At the meantime the one function of t
 
 **To-Do list**
 
-XP system JSON
+- XP system JSON
 
-Google Sheet
+- Google Sheet
 
-Twitch Api
+- Twitch Api
 
-Modular Design
+- Modular Design
