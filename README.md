@@ -5,10 +5,14 @@ Hello to whoever is reading this!  This is a Discord bot that is still in progre
 
 **To-Do list**
 
-- XP system JSON
+* XP system JSON
 
-- Google Sheet
+* Google Sheet
 
-- Twitch Api
+* Twitch Api
 
-- Modular Design
+* Modular Design (COGS)
+
+* Games
+
+* Server Stats
