@@ -16,3 +16,7 @@ Hello to whoever is reading this!  This is a Discord bot that is still in progre
 * Games
 
 * Server Stats
+
+* Reminders
+
+* Tracking Number
